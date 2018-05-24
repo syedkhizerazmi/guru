@@ -1,0 +1,63 @@
+body{
+	background-image: url(pakistani.jpg);
+	background-size: cover;
+	
+}
+.btn-group>.btn:first-child{
+	width: 280px;
+	padding: 11px;
+	font-size: 19px;
+	background-color: #343a40;
+	color: white;
+
+	
+}
+.dropdown-item{
+	font-weight: bold;
+}
+.dropdown-item:hover{
+	color: white;
+	background-color: black;
+	text-decoration: none;
+}
+.btn-group{
+	display: flex;
+	justify-content:flex-end;
+	padding:0px 8%;
+
+    
+
+	
+}
+h1{
+
+	line-height: 2em;
+	display: flex;
+	color: white;
+	justify-content:flex-end;
+	margin-bottom: 0px;
+	padding:0px 90px 2px 200px;
+	margin-top: 15%;
+
+}
+
+h2{
+	display: flex;
+	color: white;
+	justify-content:flex-end;
+	padding: 0px 105px 2px 200px;
+}
+.bg-dark{
+	opacity: 0.8;
+}
+
+
+a{
+	text-decoration: none !important;
+}
+
+
+
+
+
+	

@@ -1,0 +1,101 @@
+body{
+    text-align: center;
+}
+.div{
+
+	padding-top: 40px;
+}
+
+
+
+.dropdown-item:hover{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+header
+{
+    display: flex;
+    
+    
+}
+.logo
+{
+    width: 129px;
+    height:36px;
+    background-position: center;
+    background-size:cover;
+    display: inline-block;
+    margin: 11px 10px 11px 15px;
+   
+}
+.navbar
+{
+    /* position:sticky;
+    top:0;
+     */
+}
+h2
+{
+    color:#bea668; 
+    font-size: 30px;
+    font-family: 'Contrail One', cursive; 
+   margin-top: 11px;
+}
+span
+{
+    font-size: 20px;
+    margin-left:20px ;
+
+}
+
+.navbar-nav > .nav-item > .nav-link, .navbar > .navbar-brand
+{
+    color:#bea668;
+    font-weight: bold;
+    font-family: 'Hind', sans-serif;
+    font-size: 18px;
+}
+
+.btn	
+{
+    border: none;
+    background-color: #fff;
+    color:#bea668;
+    font-weight: bold;
+    font-family: 'Hind', sans-serif;
+    font-size: 18px;
+}
+
+footer{
+    margin-right:auto !important;
+    font-size: 22px;
+    font-weight: bold;
+    
+}
+.div-1{
+    display: flex;
+    justify-content:center;
+    
+}
+.i:hover{
+    color: red;
+    transition:2s;
+
+
+
+}
+.i{
+
+  transition:4s;
+
+}
+.number:hover{
+
+    font-size: 30px;
+   
+     
+
+
+}

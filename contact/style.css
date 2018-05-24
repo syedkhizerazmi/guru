@@ -1,0 +1,27 @@
+a{
+	text-decoration: none !important;
+}
+
+.img2{
+	margin-left: 20px;
+	height: 400px;
+}
+.div{
+	display: flex;
+	justify-content:center;
+	text-align: center;
+	color: white;
+
+}
+.img1{
+
+	height: 400px;
+}
+.h1{
+	text-align: center;
+}
+body{
+	background-image: url(contact-2.jpg);
+	background-size: cover;
+
+}
